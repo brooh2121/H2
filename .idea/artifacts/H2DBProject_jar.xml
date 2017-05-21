@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="H2DBProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/H2DBProject_jar</output-path>
+    <root id="archive" name="H2DBProject.jar">
+      <element id="module-output" name="H2DBProject" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/db/h2-1.4.195.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/h2database/h2/1.4.195/h2-1.4.195.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
